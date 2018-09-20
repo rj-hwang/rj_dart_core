@@ -1,5 +1,5 @@
-import 'package:rj_dart_core/rj_dart_core.dart';
 import 'package:test/test.dart';
+import '../lib/main.dart';
 
 void main() {
   group('A group of tests', () {
